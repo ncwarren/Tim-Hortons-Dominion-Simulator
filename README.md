@@ -14,14 +14,23 @@ The second type of queue should be implemented in a class called DominionQueue, 
 ## Results
 ### Tim Hortons (4 simulated hours) - 2 Registers, Max line of 6
 Customers Arrived: 177
+
 Customers Served: 77
+
 Customers Turned Away: 93
+
 Average Time Taken to Serve each customer: 187.1818181818182
+
 Average Time Taken for complete service: 1300.1298701298701
 
 ### Dominion (4 simulated hours) - 3 Registers, Max line of 2
 Customers Arrived: 183
+
 Customers Served: 115
+
 Customers Turned Away: 61
+
 Average Time Taken to Serve each customer: 125.6608695652174
+
 Average Time Taken for complete service: 1010.2086956521739
+
